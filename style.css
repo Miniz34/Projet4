@@ -1071,3 +1071,15 @@ h4 {
   font-weight: 400;
   color: #575757!important;
 }
+
+a:focus {
+  color: red;
+  border: 2px solid red;
+
+}
+
+.btn:focus {
+  color: red;
+  border: 2px solid green;
+
+}
