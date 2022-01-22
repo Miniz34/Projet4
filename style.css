@@ -561,6 +561,10 @@ a[data-lightbox]:hover img {
     animation-fill-mode: none;
 }
 
+.col-sm-12 img {
+  border-radius: 50%;
+}
+
 #lightbox-modal {
     display: flex;
     align-items: center;
