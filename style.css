@@ -1101,6 +1101,11 @@ a:focus {
 
 }
 
+button:hover {
+  color: red;
+  border: solid red 2px;
+}
+
 .btn:focus {
   color: red;
   border: 2px solid green;
